@@ -12,7 +12,7 @@ public class TraditionalSearch {
 		animals.add(new Animal("kangaroo",true,false));
 		animals.add(new Animal("rabbit",true,false));
 		
-		printStatus(animals, a-> a.canHop());
+		printStatus(animals, a-> a.canHop());	
 
 	}
 	
